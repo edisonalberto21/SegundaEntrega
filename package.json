@@ -1,0 +1,11 @@
+{
+  "name": "segunda_entrega",
+  "version": "1.0.1",
+  "description": "Segunda_Entrega",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edison Giraldo",
+  "license": "ISC"
+}
